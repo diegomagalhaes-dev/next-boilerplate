@@ -6,7 +6,7 @@ type Props = {
   txtTitle: string
 }
 
-const foo = 'bla'
+const bla = 'var'
 
 export default function Home({ txtTitle = 'Title Custom' }: Props) {
   return (
